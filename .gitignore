@@ -1,0 +1,13 @@
+# IDE
+/.vscode
+
+# Kubernetes context
+kubeconfig.yaml
+
+# private keys
+priv.envrc
+.netrc
+
+# AGE keys and decrypted files
+*.age
+.decrypted*
